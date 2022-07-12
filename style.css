@@ -30,10 +30,12 @@ nav {
 
 .a {
     grid-area: a;
+    background-color: #fbfbfd00;
   }
   
 .b {
     grid-area: b;
+    
   }
   
 .c {
@@ -42,6 +44,7 @@ nav {
   
 .d {
     grid-area: d;
+    
   }
   
 .e {
@@ -62,3 +65,28 @@ nav {
 .i {
     grid-area: i;
   }
+
+  .watch {
+    object-fit: cover;
+    width: 100%;
+    max-height: 100%;
+  }
+
+  .iphone-pro {
+    object-fit: cover;
+    width: 100%;
+    max-height: 100%;
+  }
+
+
+  .pro {
+    object-fit: cover;
+    width: 100%;
+    max-height: 100%;
+  }
+
+.air {
+  object-fit: cover;
+  width: 100%;
+  max-height: 100%;
+}
